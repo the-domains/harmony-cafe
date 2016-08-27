@@ -6,9 +6,9 @@ color:
   saturation: 0.803563991561532
   rhythmicContrast: 0.22579383151605725
   brandColors:
-    - '#FFFFFF'
-    - '#C2FF81'
-    - '#769839'
-    - '#A3D165'
-    - '#D7E2B8'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Harmony Cafe
